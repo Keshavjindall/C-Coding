@@ -1,2 +1,2 @@
-# C-Coding-
+# C-Coding
 Codes of different problems in C
